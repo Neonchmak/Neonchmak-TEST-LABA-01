@@ -64,13 +64,6 @@ namespace PhotoProgram
             this.Controls.Add(removePhotoButton);
             this.Controls.Add(sortByDateButton);
         }
-        [STAThread]
-        static void Main()
-        {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PhotoAlbumForm());
-        }
     }
 }
 

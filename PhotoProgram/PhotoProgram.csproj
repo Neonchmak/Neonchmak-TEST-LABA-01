@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Photo.cs" />
+    <Compile Include="PhotoAlbum.cs" />
     <Compile Include="PhotoAlbumForm.cs">
       <SubType>Form</SubType>
     </Compile>
