@@ -1,6 +1,6 @@
 ﻿namespace PhotoProgram
 {
-    partial class Form1
+    partial class PhotoAlbumForm
     {
         /// <summary>
         /// Обязательная переменная конструктора.
